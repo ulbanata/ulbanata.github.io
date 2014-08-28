@@ -1,6 +1,6 @@
 title:            Scribble
-description:      A jekyll theme. Because I scribble.
-url:              patrick@brennan.codes # Site url.
+description:      My Blog
+url:              brennan.codes # Site url.
 signoff:          Patrick # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 # facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
@@ -10,8 +10,7 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-    url:          http://brennan.codes
-    external:     true
+    url:          /
   - name:         Email
     url:          mailto:patrick@brennan.codes
     external:     true
@@ -24,3 +23,4 @@ markdown:         redcarpet
 redcarpet:
   extensions:
     - smart
+exclude: [vendor]
