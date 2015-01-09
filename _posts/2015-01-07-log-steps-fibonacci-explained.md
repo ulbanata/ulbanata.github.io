@@ -184,7 +184,8 @@ Looking at our table above, when p = 0 and q = 1, our new transformation results
 | 0 | 1 | b + 2a | b + a | 1 | 1|
 | 1 | 1 | 3b + 5a | 2b + 3a | 2 | 3 |
 | 2 | 3 | 21b + 34a | 13b + 21a | 13 | 21 |
-| 13 | 21 | 987b + 1597a | 610b + 987a | 1346269 | 2178309 |
+| 13 | 21 | 987b + 1597a | 610b + 987a | 610 | 987 |
+| 610 | 987 | 2178309b + 3524578a | 1346269b + 2178309a | 1346269 | 2178309 |
 
 The p's and q's are growing fast using the new transformation! The results are all part of the Fibonacci sequence, but how fast are the p's and q's growing?
 
