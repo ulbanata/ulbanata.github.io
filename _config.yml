@@ -1,5 +1,5 @@
 title:            Scribble
-description:      My Blog
+description:      Patrick Brennan's Blog
 url:              brennan.codes # Site url.
 signoff:          Patrick # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
@@ -16,9 +16,6 @@ links:
     external:     true
   - name:         GitHub
     url:          http://github.com/ulbanata
-    external:     true
-  - name:         StormChaser
-    url:          http://stormchaser.herokuapp.com
     external:     true
 highlighter:      pygments
 permalink:        pretty
