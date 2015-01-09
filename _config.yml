@@ -26,4 +26,5 @@ markdown:         redcarpet
 redcarpet:
   extensions:
     - smart
+    - tables
 exclude: [vendor]
